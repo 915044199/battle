@@ -1,0 +1,9 @@
+article {
+  background: yellowgreen; }
+
+article a {
+  color: blue; }
+  article a:hover {
+    color: floralwhite; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguY3NzIiwic291cmNlcyI6WyJpbmRleC5zY3NzIl0sInNvdXJjZXNDb250ZW50IjpbImFydGljbGV7XHJcbiAgICBiYWNrZ3JvdW5kOiB5ZWxsb3dncmVlbjtcclxufVxyXG5hcnRpY2xlIGEge1xyXG4gIGNvbG9yOiBibHVlO1xyXG4gICY6aG92ZXIgeyBjb2xvcjogZmxvcmFsd2hpdGUgfVxyXG59Il0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBLEFBQUEsT0FBTyxDQUFBO0VBQ0gsVUFBVSxFQUFFLFdBQVcsR0FDMUI7O0FBQ0QsQUFBQSxPQUFPLENBQUMsQ0FBQyxDQUFDO0VBQ1IsS0FBSyxFQUFFLElBQUksR0FFWjtFQUhELEFBRUUsT0FGSyxDQUFDLENBQUMsQUFFTixNQUFNLENBQUM7SUFBRSxLQUFLLEVBQUUsV0FBWSxHQUFFIn0= */
